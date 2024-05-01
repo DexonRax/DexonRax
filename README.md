@@ -6,4 +6,4 @@
 
 <h3>Metalhead</h3>
 
-<p><img src="https://www.emp-shop.pl/dw/image/v2/BBQV_PRD/on/demandware.static/-/Sites-master-emp/default/dwa3e59d26/images/5/1/9/2/519229.jpg?sfrm=png" width=200> <img src="https://www.banquetrecords.com/item.png?19658702641" width=200></p>
+<p><a href="https://open.spotify.com/track/0O26gtfjuscAOnQobjNPPL"><img src="https://www.emp-shop.pl/dw/image/v2/BBQV_PRD/on/demandware.static/-/Sites-master-emp/default/dwa3e59d26/images/5/1/9/2/519229.jpg?sfrm=png" width=100></a> <a href="https://open.spotify.com/album/1WuqlDJb7Z2ipBhM6ww7QI"><img src="https://www.banquetrecords.com/item.png?19658702641" width=100></a></p>
