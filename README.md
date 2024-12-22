@@ -13,7 +13,7 @@
 
 <p align="left">I'm Dexon Rax from Warsaw<br>
 chief c++ enthusiast<br><br>
-- 🔭 I’m working as Intern<br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I do 3D graphics</p>
+- 🔭 I’m working as Intern<br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I do 2D & 3D graphics</p>
 
 ###
 
